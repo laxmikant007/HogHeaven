@@ -1,0 +1,27 @@
+.parent-div{
+    margin-top: 12vh;
+}
+
+.img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-div img{
+
+    width: 90vw;
+    height:50vh;
+    opacity: 0.8;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    
+}
+@media only screen and (max-width: 600px) {
+    .img-div img{
+        margin-top: 5vh;;
+        width:80vw;
+        height: 30vh;
+    }
+  }

@@ -1,6 +1,8 @@
+
 import Footer from './components/Footer';
 import Header from './components/Header';
 import About from './pages/About';
+import BestHostel from './pages/BestHostel/BestHostel';
 import Contact from './pages/Conteact';
 import Home from './pages/Home';
 
@@ -22,6 +24,7 @@ function App() {
         <Route path='/facility' element={<Facilities/>}/>
         <Route path='/testimonials' element={<Testimonials/>}/>
         <Route path='/contact' element={<Contact/>}/>
+        <Route path='/best-hostels' element={<BestHostel/>}/>
       </Routes>
       <Footer/>
     
