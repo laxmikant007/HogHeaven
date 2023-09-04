@@ -33,6 +33,8 @@ import { Link } from 'react-router-dom';
                                 <li><Link className="page-scroll scroll" to="facility">Our Facilities</Link></li>
                                 <li><Link className="page-scroll scroll" to="testimonials">Testimonials</Link></li>
                                 <li><Link className="page-scroll scroll" to="contact">Contact</Link></li>
+                                <li><Link className="page-scroll scroll" to="best-hostels">Best Hostel</Link></li>
+
                             </ul>
                         </div>
 
