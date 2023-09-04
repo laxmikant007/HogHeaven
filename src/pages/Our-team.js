@@ -35,7 +35,7 @@ const Team = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div data-aos="slide-up" className="col-md-3 agile_team_grid">
+                        {/* <div data-aos="slide-up" className="col-md-3 agile_team_grid">
                             <div className="ih-item circle effect1">
                                 <div className="spinner"></div>
                                 <div className="img"><img src="assets/images/team2.jpg" alt=" " className="img-responsive" /></div>
@@ -76,7 +76,7 @@ const Team = () => {
                                     <li><a href="#" className="fa fa-google"> </a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> */}
                         <div data-aos="fade-up" className="col-md-3 agile_team_grid t4">
                             <div className="ih-item circle effect1">
                                 <div className="spinner"></div>
@@ -84,11 +84,11 @@ const Team = () => {
                                 <div className="info">
                                     <div className="info-back">
                                         <h4>Mess Incharge</h4>
-                                        <p>loremdolor</p>
+                                        <p>Anil</p>
                                     </div>
                                 </div>
                             </div>
-                            <h4>Lisaen Eddy</h4>
+                            <h4>Anil Sharma</h4>
                             <p>Fusce eu semper lacus, sodales id elit a, feugiat porttitor nulla lacinia.</p>
                             <div className="social-icons team-icons">
                                 <ul>

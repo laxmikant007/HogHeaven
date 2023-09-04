@@ -37,7 +37,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="copyrightbottom">
-                    <p>© 2019 Aura Girls Hostel. All rights reserved</p>
+                    <p>© 2023 NARAYANA HOUSE. All rights reserved</p>
                 </div>
                 <div className="clearfix"></div>
             </div>
@@ -48,7 +48,7 @@ const Footer = () => {
                 <div className="modal-dialog" role="document">
                     <div className="modal-content">
                         <div className="modal-header">
-                            Aura Girls
+                        NARAYANA HOUSE
                             <button type="button" className="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                         </div>
                         <div className="modal-body">
