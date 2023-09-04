@@ -25,7 +25,7 @@ const Contact = () => {
               <div className="contact-info-right">
                 <h5>Address</h5>
                 <p>Extended Stay Restaurant<br />/
-                  <span>87th St,Kansas City</span>
+                  <span>88b St,Kansas City</span>
                   Lenexa 241.
                 </p>
               </div>
