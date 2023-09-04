@@ -21,7 +21,7 @@ const Testimonials = () => {
                                         <li>
                                             <div data-aos="flip-down" className="col-md-6 testimonial-top">
                                                 <i className="fa fa-quote-right" aria-hidden="true"></i>
-                                                <p>Aura Girls Hostel, as defined by the name itself is a luxurious place to live in with
+                                                <p> NARAYANA HOUSE, as defined by the name itself is a luxurious place to live in with
                                                     royal amenities and full-furnished interiors.
                                                     It feels like a second home where one can feel safe and enjoy the warmth.</p>
                                                 <h5>Shreya Dubey <span>- Visitor</span></h5>
@@ -38,7 +38,7 @@ const Testimonials = () => {
                                         <li>
                                             <div data-aos="flip-up" className="col-md-6 testimonial-top">
                                                 <i className="fa fa-quote-right" aria-hidden="true"></i>
-                                                <p>Aura Girls Hostel, as defined by the name itself is a luxurious place to live in with
+                                                <p> NARAYANA HOUSE, as defined by the name itself is a luxurious place to live in with
                                                     royal amenities and full-furnished interiors.
                                                     It feels like a second home where one can feel safe and enjoy the warmth.</p>
                                                 <h5>Shreya Dubey <span>- Visitor</span></h5>

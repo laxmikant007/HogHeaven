@@ -9,16 +9,16 @@ import { Link } from 'react-router-dom';
                     <div className="container">
                         <div className="navbar-header page-scroll">
                             <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                                <span className="sr-only">AuraHostel</span>
+                                <span className="sr-only"> NARAYANA HOUSE</span>
                                 <span className="icon-bar"></span>
                                 <span className="icon-bar"></span>
                                 <span className="icon-bar"></span>
                             </button>
                             <div className="rw-words rw-words-1">
                                 <h1><a className="navbar-brand" href="/">
-                                    <span style={{ Color: '#DAB83F' }}>Aura</span>
-                                    <span>Girls</span>
-                                    <span>hostel</span>
+                                    <span style={{ Color: '#DAB83F' }}> NARAYANA HOUSE</span>
+                                    {/* <span>Girls</span>
+                                    <span>hostel</span> */}
                                 </a></h1>
                             </div>
                         </div>

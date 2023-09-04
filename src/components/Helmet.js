@@ -6,8 +6,8 @@ const Helmet = () => {
     <div>
             <Helmet>
                 
-                <title>My Title</title>
-                <meta name="keywords" content="Aura Girls Hostel Responsive web, Bootstrap Web Template, Flat Web template, Android Compatible web page, 
+                <title> NARAYANA HOUSE</title>
+                <meta name="keywords" content=" NARAYANA HOUSE  Responsive web, Bootstrap Web Template, Flat Web template, Android Compatible web page, 
 Smartphone Compatible web template" />
             </Helmet>
             

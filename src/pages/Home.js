@@ -14,8 +14,8 @@ const Home = () => {
         <>
             <Helmet>
 
-                <title>My Title</title>
-                <meta name="keywords" content="Aura Girls Hostel Responsive web, Bootstrap Web Template, Flat Web template, Android Compatible web page, 
+                <title> NARAYANA HOUSE </title>
+                <meta name="keywords" content=" NARAYANA HOUSE Responsive web, Bootstrap Web Template, Flat Web template, Android Compatible web page, 
 Smartphone Compatible web template" />
             </Helmet>
             {/* <!-- banner --> */}
@@ -29,8 +29,8 @@ Smartphone Compatible web template" />
                                     <div className="banner-dott">
                                         <div className="container">
                                             <div data-aos="fade-left" className="agileits-banner-info">
-                                                <h3>Welcome to AURA</h3>
-                                                <h3>Girls Hostel</h3>
+                                                <h3>Welcome to  NARAYANA </h3>
+                                                <h3> HOUSE </h3>
                                                 <p style={{ fontSize: "15px" }}>A New Dimension of Luxury</p>
                                                 <div className="agileits_w3layouts_more menu__item">
                                                     <Link to="" className="menu__link" data-toggle="modal" data-target="myModal">Learn More</Link>
@@ -45,8 +45,8 @@ Smartphone Compatible web template" />
                                     <div className="banner-dott">
                                         <div className="container">
                                             <div data-aos="fade-left" className="agileits-banner-info">
-                                                <h3>Welcome to AURA</h3>
-                                                <h3>Girls Hostel</h3>
+                                                <h3>Welcome to  NARAYANA HOUSE</h3>
+                                              
                                                 <p style={{ fontSize: "15px" }}>A New Dimension of Luxury</p>
                                                 <div className="agileits_w3layouts_more menu__item">
                                                     <Link to="" className="menu__link" data-toggle="modal" data-target="myModal">Learn More</Link>
@@ -61,8 +61,8 @@ Smartphone Compatible web template" />
                                     <div className="banner-dott">
                                         <div className="container">
                                             <div data-aos="fade-left" className="agileits-banner-info">
-                                                <h3>Welcome to AURA</h3>
-                                                <h3>Girls Hostel</h3>
+                                                <h3>Welcome to  NARAYANA HOUSE</h3>
+                                                {/* <h3>Girls Hostel</h3> */}
                                                 <p style={{ fontSize: "15px" }}>A New Dimension of Luxury</p>
                                                 <div className="agileits_w3layouts_more menu__item">
                                                     <Link to="" className="menu__link" data-toggle="modal" data-target="myModal">Learn More</Link>
