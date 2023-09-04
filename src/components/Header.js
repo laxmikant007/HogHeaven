@@ -15,7 +15,7 @@ import { Link } from 'react-router-dom';
                                 <span className="icon-bar"></span>
                             </button>
                             <div className="rw-words rw-words-1">
-                                <h1><a className="navbar-brand" href="index.html">
+                                <h1><a className="navbar-brand" href="/">
                                     <span style={{ Color: '#DAB83F' }}>Aura</span>
                                     <span>Girls</span>
                                     <span>hostel</span>
